@@ -1,0 +1,57 @@
+{"message": "{'message': 'Request Proceed', 'method': 'OPTIONS', 'path': '/secure-data', 'status': 200, 'time_ms': 0.64}", "time": "2025-10-22T02:30:47.415998+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:30:47.419858+00:00', 'status': 401}", "time": "2025-10-22T02:30:47.419997+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 1.69}", "time": "2025-10-22T02:30:47.421104+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:30:48.008204+00:00', 'status': 401}", "time": "2025-10-22T02:30:48.008350+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 5.23}", "time": "2025-10-22T02:30:48.013058+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:30:48.355574+00:00', 'status': 401}", "time": "2025-10-22T02:30:48.355730+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 1.56}", "time": "2025-10-22T02:30:48.356795+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:30:48.621786+00:00', 'status': 401}", "time": "2025-10-22T02:30:48.622000+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 2.53}", "time": "2025-10-22T02:30:48.624124+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:30:48.869362+00:00', 'status': 401}", "time": "2025-10-22T02:30:48.869503+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 1.25}", "time": "2025-10-22T02:30:48.870375+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:30:49.097783+00:00', 'status': 401}", "time": "2025-10-22T02:30:49.097894+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 0.98}", "time": "2025-10-22T02:30:49.098487+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:30:49.346686+00:00', 'status': 401}", "time": "2025-10-22T02:30:49.346791+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 0.91}", "time": "2025-10-22T02:30:49.347356+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:30:49.576466+00:00', 'status': 401}", "time": "2025-10-22T02:30:49.576612+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 1.29}", "time": "2025-10-22T02:30:49.577410+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:30:49.806267+00:00', 'status': 401}", "time": "2025-10-22T02:30:49.806416+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 1.12}", "time": "2025-10-22T02:30:49.806984+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:30:50.034946+00:00', 'status': 401}", "time": "2025-10-22T02:30:50.035086+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 1.34}", "time": "2025-10-22T02:30:50.035949+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:30:50.231392+00:00', 'status': 401}", "time": "2025-10-22T02:30:50.231535+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 1.23}", "time": "2025-10-22T02:30:50.232280+00:00"}
+{"message": "{'event': 'authorized_access', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'time_utc': '2025-10-22T02:30:51.527982+00:00', 'status': 200}", "time": "2025-10-22T02:30:51.528105+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 200, 'time_ms': 1.22}", "time": "2025-10-22T02:30:51.528841+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/docs', 'status': 200, 'time_ms': 0.7}", "time": "2025-10-22T02:36:16.022866+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/.well-known/appspecific/com.chrome.devtools.json', 'status': 404, 'time_ms': 0.84}", "time": "2025-10-22T02:36:16.054510+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/openapi.json', 'status': 200, 'time_ms': 10.02}", "time": "2025-10-22T02:36:16.193796+00:00"}
+{"message": "{'event': 'authorized_access', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'time_utc': '2025-10-22T02:36:20.979523+00:00', 'status': 200}", "time": "2025-10-22T02:36:20.979700+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 200, 'time_ms': 2.03}", "time": "2025-10-22T02:36:20.981059+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:36:22.790756+00:00', 'status': 401}", "time": "2025-10-22T02:36:22.790912+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 2.57}", "time": "2025-10-22T02:36:22.792891+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:36:23.883752+00:00', 'status': 401}", "time": "2025-10-22T02:36:23.883847+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 0.95}", "time": "2025-10-22T02:36:23.884493+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:36:24.185773+00:00', 'status': 401}", "time": "2025-10-22T02:36:24.186079+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 2.08}", "time": "2025-10-22T02:36:24.187524+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:36:24.438568+00:00', 'status': 401}", "time": "2025-10-22T02:36:24.438663+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 0.86}", "time": "2025-10-22T02:36:24.439193+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:36:24.690272+00:00', 'status': 401}", "time": "2025-10-22T02:36:24.690440+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 2.0}", "time": "2025-10-22T02:36:24.691896+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:38:17.317825+00:00', 'status': 401}", "time": "2025-10-22T02:38:17.318196+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 2.39}", "time": "2025-10-22T02:38:17.319754+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:38:17.646402+00:00', 'status': 401}", "time": "2025-10-22T02:38:17.646552+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 2.61}", "time": "2025-10-22T02:38:17.648506+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:38:17.958824+00:00', 'status': 401}", "time": "2025-10-22T02:38:17.958976+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 2.22}", "time": "2025-10-22T02:38:17.960710+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'OPTIONS', 'path': '/secure-data', 'status': 200, 'time_ms': 0.47}", "time": "2025-10-22T02:41:22.815618+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:41:22.820616+00:00', 'status': 401}", "time": "2025-10-22T02:41:22.820798+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 2.19}", "time": "2025-10-22T02:41:22.822101+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:41:23.194827+00:00', 'status': 401}", "time": "2025-10-22T02:41:23.194937+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 2.92}", "time": "2025-10-22T02:41:23.197244+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:41:23.486667+00:00', 'status': 401}", "time": "2025-10-22T02:41:23.486839+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 1.72}", "time": "2025-10-22T02:41:23.487827+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:41:23.748134+00:00', 'status': 401}", "time": "2025-10-22T02:41:23.748273+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 1.3}", "time": "2025-10-22T02:41:23.749103+00:00"}
+{"message": "{'event': 'unauthorized_access_attempt', 'path': '/secure-data', 'client_ip': '127.0.0.1', 'provided_key': 'kua', 'time_utc': '2025-10-22T02:41:29.043580+00:00', 'status': 401}", "time": "2025-10-22T02:41:29.043721+00:00"}
+{"message": "{'message': 'Request Proceed', 'method': 'GET', 'path': '/secure-data', 'status': 401, 'time_ms': 3.13}", "time": "2025-10-22T02:41:29.045542+00:00"}
