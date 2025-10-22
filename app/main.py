@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.api.middleware import log_request, security_headers
 from app.api.routes import status, echo, secure, time as time_router
+from app.auth import routes_auth
 
 app = FastAPI(title="Backend Security Roadmap")
 
@@ -25,3 +26,4 @@ app.include_router(status.router)
 app.include_router(echo.router)
 app.include_router(secure.router)
 app.include_router(time_router.router)
+app.include_router(routes_auth.router)

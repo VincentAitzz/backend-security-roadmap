@@ -99,14 +99,23 @@ Salida esperada:
 
 ---
 
-## 📘 Próximo paso — Día 3
-**Autenticación con hashing y JWT**:
-- Registro y autenticación de usuarios.  
-- Hashing seguro con bcrypt.  
-- Generación de tokens JWT.  
-- Protección de rutas con autenticación basada en token.
-
----
+### 🗓️ Día 3 — Autenticación segura con bcrypt y JWT
+- Instalación y configuración de dependencias: `bcrypt` y `PyJWT`.  
+- Implementación de **hashing seguro** en `app/auth/hashing.py`:
+  - Uso de `bcrypt.gensalt()` y `bcrypt.hashpw()` para contraseñas irreversibles.  
+  - Verificación mediante `bcrypt.checkpw()` en login.  
+- Creación de **tokens JWT** en `app/auth/jwt_handler.py`:  
+  - Firma HS256 con `SECRET_KEY` y expiración temporal.  
+  - Funciones `create_token()` y `verify_token()` para emisión y validación.  
+- Nuevos endpoints en `app/auth/routes_auth.py`:
+  - `/register`: registro de usuario con contraseña encriptada.  
+  - `/login`: validación de credenciales y generación de token.  
+  - `/protected`: acceso restringido mediante header `Authorization: Bearer <token>`.  
+- Integración de router `routes_auth` en `app/main.py`.  
+- Pruebas exitosas desde `/docs`:
+  - Registro → Login → Ruta protegida → Validación de token.  
+- Explicación completa del funcionamiento interno de **JWT (Header, Payload, Signature)**.  
+- Análisis de ventajas frente a sesiones tradicionales y buenas prácticas de seguridad (expiración, HTTPS, rotación de claves).  
 
 ## ✍️ Notas del autor
 
