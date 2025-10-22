@@ -16,3 +16,11 @@ async def log_request(request: Request, call_next):
     })
 
     return response
+
+async def security_headers(request, call_next):
+    response = await call_next(request)
+    response.headers["X-Frame-Options"] = "DENY"
+    response.headers["X-Content-Type-Options"] = "nosniff"
+    response.headers["X-XSS-Protection"] = "1; mode = block"
+    response.headers["Referrer-Policy"] = "no-referrer"
+    return response
